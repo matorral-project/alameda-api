@@ -1,5 +1,5 @@
 # Bleeding edge Django
-Django==2.2.3
+Django==2.2.8
 channels==2.2.0
 
 # Configuration
